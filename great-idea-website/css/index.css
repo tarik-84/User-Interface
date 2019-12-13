@@ -64,3 +64,62 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav a {
+	display: inline-block;
+	width: 13%;
+	padding: 3%;
+	color: lightslategrey;
+}
+div img {
+   position: absolute;
+   top: 4%;
+   left: 80%;
+   ;
+}
+h1 {
+  font-size: 80px;
+  position: absolute;
+    top: 25%;
+    text-align: center;
+}
+.innov img,h1 {
+  display: inline-block;
+  margin-left: 15%;
+  padding-top: 5%;    
+}
+.innov img{
+	position: relative;
+    margin-left: 60%;
+    margin-bottom: 5%    
+}
+.button{
+    border: solid 1px black;
+    text-decoration: none;
+    padding: 3px 30px;
+    color: lightslategray;
+    position: absolute;
+    left: 20%;
+    bottom: 20%
+}
+.features,.about  {
+	display: inline-block;
+	width: 40%;
+	margin: 3%;
+}
+.service,.product,.vision {
+	display: inline-block;
+	width: 25%;
+	margin: 3%;
+}
+.middle-img {
+	margin: 3%;
+}
+.contact {
+	padding: 3%;
+}
+.contact p {
+	text-align: center;
+}
+hr {
+ width: 94%    
+}
